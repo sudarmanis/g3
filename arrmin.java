@@ -5,7 +5,7 @@ public static void main(String argS[])
 {
 int i,a,t=0,j;
 Scanner sc=new Scanner(System.in);
-System.out.println("enter the no");
+
 a=sc.nextInt();
 int n []=new int[a];
 for(i=0;i<a;i++)
@@ -28,6 +28,6 @@ for(i=0;i<n.length;i++)
 System.out.println();
 for(i=0;i<n.length;i++)
 {
-System.out.print(n[i]+"");
+System.out.print(n[i]+" ");
 }
 }}
