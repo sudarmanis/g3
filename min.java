@@ -5,7 +5,7 @@ public static void main(String argS[])
 {
 int i,a;
 Scanner sc=new Scanner(System.in);
-System.out.println("enter the mul no");
+System.out.println("enter the  no");
 a=sc.nextInt();
 int n []=new int[a];
 for(i=0;i<a;i++)
